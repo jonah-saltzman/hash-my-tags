@@ -1,0 +1,10 @@
+.hmtbutton {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.hmtimage {
+    width: 40%;
+    cursor: pointer;
+}
